@@ -1,4 +1,4 @@
-‎![.](https://cdn.discordapp.com/attachments/1149146169235226655/1157414336122335252/DISCORD.png?ex=65188599&is=65173419&hm=f3fefb6913bcc0fb945f9759b8373da2dcc103f07121164942acdbd15cf9031b&)
+![https://discord.gg/NRyEEC2kPq](https://cdn.discordapp.com/attachments/1149146169235226655/1157414336122335252/DISCORD.png?ex=65188599&is=65173419&hm=f3fefb6913bcc0fb945f9759b8373da2dcc103f07121164942acdbd15cf9031b&)
 
                                                        
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ **Professional Racist**
