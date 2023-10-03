@@ -1,8 +1,8 @@
 #
 <div>
-<img src="https://images-ext-2.discordapp.net/external/hH-bH3lM28E5tKtN6lwtIQ1IPUHhStgnZOF18SthqbA/%3Fsize%3D4096/https/cdn.discordapp.com/banners/1149138392056078368/6c18ac5a4bea317951a888abf69ae79c.png" width="300" align="right" />
+<img src="https://cdn.discordapp.com/banners/1149138392056078368/6c18ac5a4bea317951a888abf69ae79c.png" width="300" align="right" />
 <br/>
-<img src="https://tenor.com/view/aesthetic-cute-trendy-moon-alone-gif-15451298" width="500" />
+<img src="https://cdn.discordapp.com/avatars/1149138392056078368/a_9acb12a6e88ff951c6c9d3f1cae626cc.gif" width="500" />
 <br/>
 <br/>
   
@@ -12,14 +12,11 @@
 
 - Good with <img src="https://cdn.discordapp.com/emojis/620827756653051914.png" alt="." width="16" height="16"/> JavaScript, <img src="https://cdn.discordapp.com/emojis/932559343600156674.png?size=20" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/), <img src="https://www.typescriptlang.org/favicon-32x32.png" alt="." width="16" height="16"/> TypeScript, <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="." width="16" height="16"/> [Python](https://www.python.org/) and <img src="https://cdn.discordapp.com/emojis/952439888337313802.png" alt="." width="16" height="16"/> C++
 
-<img src="https://cdn.discordapp.com/attachments/820557032016969751/1056426932876627968/Untitled.png" width="300" align="right" />
+<img src="https://cdn.discordapp.com/avatars/1154095357551194203/74f9df8812a9baa8f62b7d666b47213e.png" width="300" align="right" />
 <br/>
-<img src="https://cdn.discordapp.com/attachments/820557032016969751/1056425970774593556/Github.png" width="500" />
+<img src="https://cdn.discordapp.com/banners/1149138392056078368/6c18ac5a4bea317951a888abf69ae79c.png" width="500" />
 <br/>
 <br/>
-
-<br/>
-<img src="https://cdn.discordapp.com/attachments/820557032016969751/1056419021110661210/herrscher-of-human-ego-elysia.gif" width="500" /><br/>
 
 ## Discord
 <a href="https://discord.com/users/1149138392056078368"  align="left">
