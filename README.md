@@ -1,8 +1,8 @@
 #
 <div>
-<img src="https://cdn.discordapp.com/avatars/1149138392056078368/779862ca777aa7374d768b8bcb817bb4.png" width="300" align="right" />
+<img src="https://images-ext-2.discordapp.net/external/hH-bH3lM28E5tKtN6lwtIQ1IPUHhStgnZOF18SthqbA/%3Fsize%3D4096/https/cdn.discordapp.com/banners/1149138392056078368/6c18ac5a4bea317951a888abf69ae79c.png" width="300" align="right" />
 <br/>
-<img src="https://cdn.discordapp.com/avatars/1149138392056078368/779862ca777aa7374d768b8bcb817bb4.png" width="500" />
+<img src="https://tenor.com/view/aesthetic-cute-trendy-moon-alone-gif-15451298" width="500" />
 <br/>
 <br/>
   
@@ -21,34 +21,21 @@
 <br/>
 <img src="https://cdn.discordapp.com/attachments/820557032016969751/1056419021110661210/herrscher-of-human-ego-elysia.gif" width="500" /><br/>
 
-<sub>  *“It's not bad for the leading actress to play a charming villain for a change ♪.” – Elysia* </sub>
-</div>
-
 ## Discord
-<a href="https://discord.com/users/721746046543331449"  align="left">
-    <img src="https://lanyard.cnrad.dev/api/721746046543331449?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
-  </a>
+<a href="https://discord.com/users/1149138392056078368"  align="left">
+    <img src="https://lanyard.cnrad.dev/api/1149138392056078368?theme=dark&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
+ v> </a>
 
 ## My stats:
 
 <br/>
 <p align="left">
   <a href="/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aiko-chan-ai&theme=dracula&show_icons=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aiko-chan-ai&theme=dracula&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=percentt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon" />
   </a>
 </p>
 <br>
 
-## Commits
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=aiko-chan-ai/DiscordBotClient,aiko-chan-ai/discord.js-selfbot-v13&type=Date)](https://star-history.com/#aiko-chan-ai/DiscordBotClient&aiko-chan-ai/discord.js-selfbot-v13&Date)
-
-
 ## Thanks for reading ❤️
 
-![:aikocount](https://count.getloli.com/get/@aiko-chan-ai?theme=rule34)
+![header](https://images-ext-2.discordapp.net/external/hH-bH3lM28E5tKtN6lwtIQ1IPUHhStgnZOF18SthqbA/%3Fsize%3D4096/https/cdn.discordapp.com/banners/1149138392056078368/6c18ac5a4bea317951a888abf69ae79c.png)
