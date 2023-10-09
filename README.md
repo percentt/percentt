@@ -10,7 +10,7 @@
 
 ## Discord
 
-![1](https://discord.c99.nl/widget/theme-4/1149138392056078368.png)
+![https://discord.c99.nl/widget/theme-4/1149138392056078368.png](https://discord.com/users/1149138392056078368)
 
 ## My stats:
 ![1](https://komarev.com/ghpvc/?username=your-github-pcrcent&color=red)
