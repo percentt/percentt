@@ -1,7 +1,10 @@
-
-![](https://cdn.discordapp.com/attachments/1149146169235226655/1160949475980882001/standard.gif?ex=65368574&is=65241074&hm=319d9af19de14ce1df6b9c51437b5088b30597f6b9cd250ea1da9461f9e357bc&)
 <br/>
-<br/>
+<p align="left">
+<a href="/">
+<img src="https://cdn.discordapp.com/attachments/1149146169235226655/1160949475980882001/standard.gif?ex=65368574&is=65241074&hm=319d9af19de14ce1df6b9c51437b5088b30597f6b9cd250ea1da9461f9e357bc&" />
+</a>
+</p>
+<br>
 
 ## About me
 - **18**
@@ -13,13 +16,15 @@
 ![1](https://discord.c99.nl/widget/theme-4/1149138392056078368.png)
 
 ## My stats:
+
 <br/>
 <p align="left">
 <a href="/">
-<img width="49.5" src="https://komarev.com/ghpvc/?username=your-github-pcrcent&color=red" />
+<img src="https://komarev.com/ghpvc/?username=your-github-pcrcent&color=red" />
 </a>
 </p>
 <br>
+
 <br/>
 <p align="left">
   <a href="/">
