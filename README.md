@@ -13,11 +13,17 @@
 ![1](https://discord.c99.nl/widget/theme-4/1149138392056078368.png)
 
 ## My stats:
-![1](https://komarev.com/ghpvc/?username=your-github-pcrcent&color=red)
+<br/>
+<p align="left">
+<a href="/">
+<img width="49.5" src="https://komarev.com/ghpvc/?username=your-github-pcrcent&color=red" />
+</a>
+</p>
+<br>
 <br/>
 <p align="left">
   <a href="/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=percentt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon_red" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=percentt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon" />
   </a>
 </p>
 <br>
