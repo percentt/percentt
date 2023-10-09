@@ -9,12 +9,8 @@
 - **Smoke alot of weed :p**
 
 ## Discord
- <p align="left"</p>
-    width="340"
-    height=192
-    frameborder="0"
-    sandbox="allow-scripts"
-    <img src="https://widgets.vendicated.dev/user?id=1149138392056078368&theme=dark&banner=true&full-banner=true&rounded-corners=true&discord-icon=false&badges=true&guess-nitro=true&background-color=%23000000&foreground-color=%23ffffff"
+<p align="left"
+[![Discord Presence](https://lanyard.cnrad.dev/api/1149138392056078368)](https://discord.com/users/1149138392056078368)
 
 ## My stats:
 ![1](https://komarev.com/ghpvc/?username=your-github-pcrcent&color=red)
