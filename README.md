@@ -10,14 +10,11 @@
 
 ## Discord
  <p align="left"</p>
-<iframe
-    title="Discord user embed"
     width="340"
     height=192
     frameborder="0"
     sandbox="allow-scripts"
-    src="https://widgets.vendicated.dev/user?id=1149138392056078368&theme=dark&banner=true&full-banner=true&rounded-corners=true&discord-icon=false&badges=true&guess-nitro=true&background-color=%23000000&foreground-color=%23ffffff"
-></iframe>
+    <img src="https://widgets.vendicated.dev/user?id=1149138392056078368&theme=dark&banner=true&full-banner=true&rounded-corners=true&discord-icon=false&badges=true&guess-nitro=true&background-color=%23000000&foreground-color=%23ffffff"
 
 ## My stats:
 ![1](https://komarev.com/ghpvc/?username=your-github-pcrcent&color=red)
