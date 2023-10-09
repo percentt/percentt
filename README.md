@@ -9,9 +9,9 @@
 - **Smoke alot of weed :p**
 
 ## Discord
-<p align="left"
-[![Discord Presence](https://lanyard.cnrad.dev/api/1149138392056078368)](https://discord.com/users/1149138392056078368)
-
+<p align="left">
+<img src"https://discord.c99.nl/widget/theme-4/1149138392056078368.png">
+</p>
 ## My stats:
 ![1](https://komarev.com/ghpvc/?username=your-github-pcrcent&color=red)
 <br/>
