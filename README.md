@@ -1,5 +1,5 @@
 
-<img src="https://cdn.discordapp.com/attachments/1149146169235226655/1160757668865126541/percent.gif?ex=6535d2d2&is=65235dd2&hm=3dfdb326fe6df839de1c8d429c190623a6c693d729c4ce31952b025777c032b3&" width="500" />
+<img src="https://cdn.discordapp.com/attachments/1149146169235226655/1160758000827502632/the-black-phone-1.webp?ex=6535d321&is=65235e21&hm=b14b19d8e23d06c8d68d6e327cbcb0e222578f1a00bdea11437f6cb8a3b0de30&" width="500" />
 <br/>
 <br/>
 
