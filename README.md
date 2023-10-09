@@ -17,7 +17,7 @@
 <br/>
 <p align="left">
   <a href="/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=percentt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark_red" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=percentt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon_red" />
   </a>
 </p>
 <br>
