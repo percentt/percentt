@@ -2,7 +2,7 @@
 <img src="https://cdn.discordapp.com/attachments/1149146169235226655/1160758000827502632/the-black-phone-1.webp?ex=6535d321&is=65235e21&hm=b14b19d8e23d06c8d68d6e327cbcb0e222578f1a00bdea11437f6cb8a3b0de30&" width="500" />
 <br/>
 <br/>
-<P alighn="right"
+
 ![1](https://komarev.com/ghpvc/?username=your-github-pcrcent&color=red)
 
 ## About me
