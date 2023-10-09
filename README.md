@@ -1,5 +1,5 @@
 
-<img src="https://cdn.discordapp.com/attachments/1149146169235226655/1160758000827502632/the-black-phone-1.webp?ex=6535d321&is=65235e21&hm=b14b19d8e23d06c8d68d6e327cbcb0e222578f1a00bdea11437f6cb8a3b0de30&" width="500" />
+![1](https://cdn.discordapp.com/attachments/1149146169235226655/1160949475980882001/standard.gif?ex=65368574&is=65241074&hm=319d9af19de14ce1df6b9c51437b5088b30597f6b9cd250ea1da9461f9e357bc&)
 <br/>
 <br/>
 
